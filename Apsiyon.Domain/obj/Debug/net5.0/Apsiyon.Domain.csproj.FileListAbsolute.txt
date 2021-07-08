@@ -1,0 +1,15 @@
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.deps.json
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\bin\Debug\net5.0\ref\Apsiyon.Domain.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.pdb
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.csprojAssemblyReference.cache
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.AssemblyInfoInputs.cache
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.AssemblyInfo.cs
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\ref\Apsiyon.Domain.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.pdb
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.runtimeconfig.json
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\bin\Debug\net5.0\Apsiyon.Domain.runtimeconfig.dev.json
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Domain\obj\Debug\net5.0\Apsiyon.Domain.genruntimeconfig.cache

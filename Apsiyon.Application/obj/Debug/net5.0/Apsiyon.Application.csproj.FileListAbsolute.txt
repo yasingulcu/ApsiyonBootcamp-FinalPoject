@@ -1,0 +1,17 @@
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\Apsiyon.Domain.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\Apsiyon.Infrastructure.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.csprojAssemblyReference.cache
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.AssemblyInfoInputs.cache
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.AssemblyInfo.cs
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\Apsiyon.Application.deps.json
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\Apsiyon.Application.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\ref\Apsiyon.Application.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\Apsiyon.Application.pdb
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\Apsiyon.Domain.pdb
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\bin\Debug\net5.0\Apsiyon.Infrastructure.pdb
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.csproj.CoreCompileInputs.cache
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.csproj.CopyComplete
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\ref\Apsiyon.Application.dll
+C:\Users\ysg02\Desktop\Yeni klasör\ApsiyonBootcamp-FinalProject\Apsiyon.Application\obj\Debug\net5.0\Apsiyon.Application.pdb
